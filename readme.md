@@ -1,16 +1,15 @@
 
 # Otávio Canuto
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
-> An programmer (16y) since 2018
+> A programmer (16y) since 2018
 * Python ❤️
 * Django ❤️
 * Low-level languages ❤️
 * Linux ❤️
 <h2 align="center"> Stacks</h2>
-OS (that i loved): 
+OS: 
 <code>
 <img height=20 src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/archlinux.svg" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/debian.svg"></code>
@@ -18,9 +17,6 @@ OS (that i loved):
 <code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/centos.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/simple-icons/simple-icons/1ff67282ad1df6e6bab82ca5a97bb162b9cc45be/icons/fedora.svg"></code>
 
-</br> 
-And : <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"></code>
 
 
 
