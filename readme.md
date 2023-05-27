@@ -3,7 +3,7 @@
 
 
 
-> A programmer (16y) since 2018
+> A programmer (17y) since 2018
 * Python ❤️
 * Django ❤️
 * Low-level languages ❤️
