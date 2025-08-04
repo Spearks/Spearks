@@ -1,10 +1,4 @@
-### <div align="center">Hi! I'm Otávio Canuto, a backend developer 👨‍💻 making things since 2018 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Django Sonic](https://github.com/Spearks/django-sonic)  
-  
-
-- 🌱 I’m currently learning Kubernetes and Go  
+### <div align="center">Hi! I'm Otávio Canuto </div>  
   
 
 - 〰️ Undergrad Bachelor of Science and Technology at UFABC   
